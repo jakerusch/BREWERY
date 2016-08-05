@@ -3,7 +3,7 @@ var ajax = require('ajax');
 var Vector2 = require('vector2');
 
 // my personal API Key and url string for BreweryDB.com
-var myAPIKey = '3356c6136a5e69d8bf6dffb9b5c6cb44';
+var myAPIKey = '';
 
 // create main loading window
 var splashWindow = new UI.Window({
